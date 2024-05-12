@@ -7,6 +7,7 @@ root.geometry("500x500")# taille de l'application
 root.title("bloc-note groupe 4")# titre de l'application
 
 def function():
+       block = none
  
     def nouveau():
         
